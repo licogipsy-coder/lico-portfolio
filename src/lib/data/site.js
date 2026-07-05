@@ -5,10 +5,9 @@ export const site = {
 	name: 'Lico Fiddelio',
 	role: 'Photographer',
 	tagline: 'Light, stillness, and the space between moments.',
-	location: 'Lisbon, Portugal',
-	email: 'hello@fiddelio.com',
-	instagram: 'https://instagram.com/',
-	behance: 'https://behance.net/',
+	location: 'Jakarta, Indonesia',
+	email: 'lico.gipsy@gmail.com',
+	instagram: 'https://www.instagram.com/fiddelico06_/',
 	about: [
 		`I'm Lico Fiddelio, a photographer working across portraiture, landscape,
 		and quiet documentary work. For over a decade I've chased the same thing in
